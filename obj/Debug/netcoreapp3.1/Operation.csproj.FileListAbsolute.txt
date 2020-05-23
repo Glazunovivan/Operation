@@ -1,0 +1,13 @@
+D:\Projects\Operation\bin\Debug\netcoreapp3.1\Operation.exe
+D:\Projects\Operation\bin\Debug\netcoreapp3.1\Operation.deps.json
+D:\Projects\Operation\bin\Debug\netcoreapp3.1\Operation.runtimeconfig.json
+D:\Projects\Operation\bin\Debug\netcoreapp3.1\Operation.runtimeconfig.dev.json
+D:\Projects\Operation\bin\Debug\netcoreapp3.1\Operation.dll
+D:\Projects\Operation\bin\Debug\netcoreapp3.1\Operation.pdb
+D:\Projects\Operation\obj\Debug\netcoreapp3.1\Operation.csprojAssemblyReference.cache
+D:\Projects\Operation\obj\Debug\netcoreapp3.1\Operation.csproj.CoreCompileInputs.cache
+D:\Projects\Operation\obj\Debug\netcoreapp3.1\Operation.AssemblyInfoInputs.cache
+D:\Projects\Operation\obj\Debug\netcoreapp3.1\Operation.AssemblyInfo.cs
+D:\Projects\Operation\obj\Debug\netcoreapp3.1\Operation.dll
+D:\Projects\Operation\obj\Debug\netcoreapp3.1\Operation.pdb
+D:\Projects\Operation\obj\Debug\netcoreapp3.1\Operation.genruntimeconfig.cache
